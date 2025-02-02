@@ -7,7 +7,7 @@ import requests
 app = Flask(__name__)
 
 # OpenAI API Key
-openai.api_key = "sk-proj-l689i1nYis98kLJFJwy_BnRz8TPSVQZrP1HL2crpb8BYI7BDDTfq-fS9_0mLvskUkBhUhUoRZwT3BlbkFJ1"
+openai.api_key = "your_api_key"
 
 # Spotify API Details
 SPOTIFY_ACCESS_TOKEN = "your_spotify_access_token"  # Replace with your access token
